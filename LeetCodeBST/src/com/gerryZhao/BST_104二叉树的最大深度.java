@@ -34,4 +34,18 @@ public class BST_104二叉树的最大深度 {
         }
         return res;
     }
+
+    /**
+     * 递归
+     *
+     * @param root
+     * @return
+     */
+    public int maxDepth2(TreeNode root) {
+        int res = 0;
+        if (root == null) return res;
+        int leftDepth = maxDepth2(root.left);
+        int rightDepth = maxDepth2(root.right);
+        return Math.max(leftDepth, rightDepth) + 1;
+    }
 }

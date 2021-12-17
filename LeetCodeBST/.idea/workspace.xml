@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5dacd4b-ad3e-4e2f-8795-4e6a1210c96c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_102二叉树的层序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_104二叉树的最大深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_107二叉树的层序遍历II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_111二叉树的最小深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_116填充每个节点的下一个右侧节点指针.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_117填充每个节点的下一个右侧节点指针II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_199二叉树的右视图.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_429N叉树的前序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_515在每个树行中找最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_637二叉树的层平均值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_二叉树的层序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_二叉树统一迭代法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_二叉树迭代遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_二叉树递归遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Node1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode365/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_101对称二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_222完全二叉树的节点个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_226翻转二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_599N叉树的最大深度.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_104二叉树的最大深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_104二叉树的最大深度.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_111二叉树的最小深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_111二叉树的最小深度.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_700二叉搜索树中的搜索.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_700二叉搜索树中的搜索.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_二叉树的层序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_二叉树的层序遍历.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +75,9 @@
       <workItem from="1638325093568" duration="20000" />
       <workItem from="1639192318402" duration="7642000" />
       <workItem from="1639636316870" duration="7831000" />
+      <workItem from="1639712934090" duration="4000" />
+      <workItem from="1639728700266" duration="3141000" />
+      <workItem from="1639734407599" duration="1712000" />
     </task>
     <servers />
   </component>
