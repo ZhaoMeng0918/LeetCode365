@@ -71,5 +71,4 @@ public class BST_222完全二叉树的节点个数 {
         }
         return depth;
     }
-
 }

@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5dacd4b-ad3e-4e2f-8795-4e6a1210c96c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_101对称二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_222完全二叉树的节点个数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_226翻转二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_599N叉树的最大深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_110平衡二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_257二叉树的所有路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_101对称二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_101对称二叉树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_104二叉树的最大深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_104二叉树的最大深度.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_111二叉树的最小深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_111二叉树的最小深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_700二叉搜索树中的搜索.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_700二叉搜索树中的搜索.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_二叉树的层序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_二叉树的层序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_222完全二叉树的节点个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_222完全二叉树的节点个数.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +76,8 @@
       <workItem from="1639712934090" duration="4000" />
       <workItem from="1639728700266" duration="3141000" />
       <workItem from="1639734407599" duration="1712000" />
+      <workItem from="1639744812585" duration="2000" />
+      <workItem from="1639984738401" duration="8345000" />
     </task>
     <servers />
   </component>

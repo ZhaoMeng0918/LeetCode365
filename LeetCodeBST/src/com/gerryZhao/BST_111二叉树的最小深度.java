@@ -42,6 +42,7 @@ public class BST_111二叉树的最小深度 {
         if (root == null) return 0;
         int leftDepth = minDepth2(root.left);
         int rightDepth = minDepth2(root.right);
+        // 最小深度是从根节点到最近叶子节点的最短路径上的节点数量
         if (root.left == null) return rightDepth + 1;
         if (root.right == null) return leftDepth + 1;
         return Math.min(leftDepth, rightDepth) + 1;

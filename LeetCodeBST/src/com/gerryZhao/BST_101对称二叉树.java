@@ -21,9 +21,11 @@ public class BST_101对称二叉树 {
         if (left != null && right == null) return false;
         if (left == null && right == null) return true;
         if (left.val != right.val) return false;
-        boolean compareOutside = compare(left.left, right.right);
-        boolean compareInside = compare(left.right, right.left);
-        return compareOutside && compareInside;
+        // boolean compareOutside = compare(left.left, right.right);
+        // boolean compareInside = compare(left.right, right.left);
+        // return compareOutside && compareInside;
+        // 优化
+        return compare(left.left, right.right) && compare(left.right, right.left);
     }
 
     /**
