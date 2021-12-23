@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5dacd4b-ad3e-4e2f-8795-4e6a1210c96c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_110平衡二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_257二叉树的所有路径.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_101对称二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_101对称二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_104二叉树的最大深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_104二叉树的最大深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_111二叉树的最小深度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_111二叉树的最小深度.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/gerryZhao/BST_222完全二叉树的节点个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_222完全二叉树的节点个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_112路径总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_113路经总和II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_144二叉树的前序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_145二叉树的后续遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_404左叶子之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_513找树左下角的值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/BST_94二叉树的中序遍历.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BST_94二叉树的中序遍历">
+    <configuration name="BST_94二叉树的中序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gerryZhao.BST_94二叉树的中序遍历" />
+      <module name="LeetCodeBST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gerryZhao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.gerryZhao.Main" />
       <module name="LeetCodeBST" />
@@ -57,6 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BST_94二叉树的中序遍历" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -78,6 +98,9 @@
       <workItem from="1639734407599" duration="1712000" />
       <workItem from="1639744812585" duration="2000" />
       <workItem from="1639984738401" duration="8345000" />
+      <workItem from="1640083746843" duration="6087000" />
+      <workItem from="1640174815362" duration="5314000" />
+      <workItem from="1640241368987" duration="85000" />
     </task>
     <servers />
   </component>
