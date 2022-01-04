@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a5ea3a0-591f-4bae-a092-4d694125dd0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LeetCodeBST/src/com/gerryZhao/BST_112路径总和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCodeBST/src/com/gerryZhao/BST_113路经总和II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCodeBST/src/com/gerryZhao/BST_144二叉树的前序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCodeBST/src/com/gerryZhao/BST_145二叉树的后续遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCodeBST/src/com/gerryZhao/BST_404左叶子之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCodeBST/src/com/gerryZhao/BST_513找树左下角的值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCodeBST/src/com/gerryZhao/BST_94二叉树的中序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Sort_1冒泡排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Sort_1冒泡排序优化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Sort_2选择排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Sort_2选择排序优化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Sort_3插入排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Sort_4希尔排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Sort_5快速排序.java" afterDir="false" />
-    </list>
+    <list default="true" id="9a5ea3a0-591f-4bae-a092-4d694125dd0e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +104,6 @@
     </configuration>
     <list>
       <item itemvalue="Application.Sort_2选择排序" />
-      <item itemvalue="Application.Sort_2选择排序优化" />
       <item itemvalue="Application.Sort_3插入排序" />
       <item itemvalue="Application.Sort_4希尔排序" />
       <item itemvalue="Application.Sort_5快速排序" />
@@ -129,7 +113,6 @@
         <item itemvalue="Application.Sort_5快速排序" />
         <item itemvalue="Application.Sort_4希尔排序" />
         <item itemvalue="Application.Sort_3插入排序" />
-        <item itemvalue="Application.Sort_2选择排序优化" />
         <item itemvalue="Application.Sort_2选择排序" />
       </list>
     </recent_temporary>
@@ -145,6 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1640241449511</updated>
       <workItem from="1640241455360" duration="7139000" />
+      <workItem from="1641189614133" duration="23000" />
     </task>
     <servers />
   </component>
@@ -156,7 +140,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
