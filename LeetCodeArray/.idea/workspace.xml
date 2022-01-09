@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d2d28d5-e0dc-4aaf-a7ab-62bda9d3bbf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Array_209长度最小的数组_滑动窗口.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Array_76最小覆盖子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Array_904水果成篮.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeArray/com/gerryZhao/Array_844比较含退格得字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeArray/com/gerryZhao/Array_844比较含退格得字符串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Array_54螺旋矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Array_59螺旋矩阵II.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +105,8 @@
       <workItem from="1641351823285" duration="2888000" />
       <workItem from="1641363925896" duration="4170000" />
       <workItem from="1641699680552" duration="139000" />
-      <workItem from="1641699844100" duration="105000" />
+      <workItem from="1641699844100" duration="660000" />
+      <workItem from="1641709658079" duration="5726000" />
     </task>
     <servers />
   </component>
