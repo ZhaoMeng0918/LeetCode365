@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d2d28d5-e0dc-4aaf-a7ab-62bda9d3bbf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Array_54螺旋矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/gerryZhao/Array_59螺旋矩阵II.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d2d28d5-e0dc-4aaf-a7ab-62bda9d3bbf6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +103,9 @@
       <workItem from="1641363925896" duration="4170000" />
       <workItem from="1641699680552" duration="139000" />
       <workItem from="1641699844100" duration="660000" />
-      <workItem from="1641709658079" duration="5726000" />
+      <workItem from="1641709658079" duration="5928000" />
+      <workItem from="1641797121964" duration="837000" />
+      <workItem from="1641805124955" duration="281000" />
     </task>
     <servers />
   </component>
