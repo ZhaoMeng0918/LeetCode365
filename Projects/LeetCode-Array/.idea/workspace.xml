@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08ba2ee6-67b5-4937-bbaa-db2a2761e78d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_34_在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_35_搜索插入位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_367_有效的完全平方数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_69_x的平方根.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_704_二分查找.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/000000-总结-二叉树.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/000000-总结-回溯法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/000000-总结-字符串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/000000-总结-数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/000000-总结-贪心算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0001_两数之和.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0002_两数相加.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0003_无重复字符的最长子串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0005_最长回文子串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0007_整数反转.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0015_三数之和.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0017_电话号码的字母组合.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0019_删除链表的倒数第N个节点.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0020_有效的括号.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0024_两两交换链表中的节点.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0027_移除元素.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0028_实现strStr().md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0034_在排序数组种查找元素的第一个和最后一个位置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0035_搜索插入位置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0037_解数独.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0039_组合总和.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0040_组合总和II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0046_全排列.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0047_全排列II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0051_N皇后.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0053_最大子序和.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0055_跳跃游戏.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0059_螺旋矩阵II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0064_最小路径和.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0069_x的平方根.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0077_组合.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0077_组合（剪支优化）.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0078_子集.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0090_子集II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0093_复原IP地址.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0101_对称二叉树.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0104_二叉树的最大深度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0108_将有序数组转换为二叉搜索树.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0110_平衡二叉树.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0111_二叉树的最小深度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0122_买卖股票的最佳时机II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0131_分割回文串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0134_加油站.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0135_分发糖果.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0136_只出现一次的数字.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0142_环形链表II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0150_逆波兰式表达式求值.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0151_翻转字符串里的单词.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0152_乘积最大子数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0169_多数元素.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0202_快乐数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0203_移除链表元素.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0206_反转链表.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0209_长度最小的子数组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0216_组合总和III.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0219_存在重复元素II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0222_完全二叉树的节点个数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0225_用队列实现栈.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0226_翻转二叉树.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0232_用栈实现队列.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0239_滑动窗口最大值.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0242_有效的字母异位词.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0257_二叉树的所有路径.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0300_最长上升子序列(LIS).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0332_重新安排形成.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0344_反转字符串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0347_前K个高频元素.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0349_两个数组的交集.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0367_有效的完全平方数.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0376_摆动序列.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0383_赎金信.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0454_四数相加II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0455_分发饼干.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0459_重复的子字符串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0541_反转字符串II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0559_n叉树的最大深度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0628_三个数的最大乘积.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0704_二分查找.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0707_设计链表.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0860_柠檬水找零.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/0977_有序数组的平方.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/1005_k次取反后最大化的数组和.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/1047_删除字符串中所有相邻重复项.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/1143_最长公共子序列(LCS).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/45_跳跃游戏II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/999999_小笔记_十大排序算法汇总.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/999999_小笔记_滑动窗口.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/999999_小练习_层序遍历转二叉树.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/9999_0001_二叉树递归遍历复习.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/9999_0002_二叉树迭代遍历复习.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/剑指Offer 05_替换空格.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/剑指Offer 58-II_左旋转字符串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/面试题_02.07.链表相交.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode365/面试题_08.01.三步问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_209长度最小的数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_26删除排序数组中得重复项.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_27移除元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_283移动零.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_34在排序数组中查找元素的第一个和最后一个位置.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_35搜索插入位置.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_367有效的完全平方数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_69x的平方根.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_704二分查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_844比较含退格得字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_977有序数组得平方.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/out/production/LeetCodeArray/com/gerryZhao/Array_基础概念.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_209长度最小的数组_滑动窗口.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_26删除排序数组中得重复项.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_27移除元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_283移动零.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_34在排序数组中查找元素的第一个和最后一个位置.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_35搜索插入位置.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_367有效的完全平方数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_54螺旋矩阵.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_59螺旋矩阵II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_69x的平方根.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_704二分查找.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_76最小覆盖子串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_844比较含退格得字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_904水果成篮.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_977有序数组得平方.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeArray/src/com/gerryZhao/Array_基础概念.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_101对称二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_102二叉树的层序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_104二叉树的最大深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_107二叉树的层序遍历II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_110平衡二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_111二叉树的最小深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_112路径总和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_113路经总和II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_116填充每个节点的下一个右侧节点指针.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_117填充每个节点的下一个右侧节点指针II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_144二叉树的前序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_145二叉树的后续遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_199二叉树的右视图.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_222完全二叉树的节点个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_226翻转二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_257二叉树的所有路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_404左叶子之和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_429N叉树的前序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_513找树左下角的值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_515在每个树行中找最大值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_599N叉树的最大深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_637二叉树的层平均值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_700二叉搜索树中的搜索.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_94二叉树的中序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_二叉树的层序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_二叉树统一迭代法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_二叉树迭代遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/BST_二叉树递归遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/Node1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/out/production/LeetCodeBST/com/gerryZhao/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_101对称二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_102二叉树的层序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_104二叉树的最大深度.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_107二叉树的层序遍历II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_110平衡二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_111二叉树的最小深度.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_112路径总和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_113路经总和II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_116填充每个节点的下一个右侧节点指针.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_117填充每个节点的下一个右侧节点指针II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_144二叉树的前序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_145二叉树的后续遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_199二叉树的右视图.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_222完全二叉树的节点个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_226翻转二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_257二叉树的所有路径.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_404左叶子之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_429N叉树的前序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_513找树左下角的值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_515在每个树行中找最大值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_599N叉树的最大深度.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_637二叉树的层平均值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_700二叉搜索树中的搜索.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_94二叉树的中序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_二叉树的层序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_二叉树统一迭代法.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_二叉树迭代遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/BST_二叉树递归遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/Node1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBST/src/com/gerryZhao/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_切割问题_131分割回文串_Hard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_切割问题_93复原IP地址.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_子集问题_491递增子序列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_子集问题_78子集.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_子集问题_90子集II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_排列问题_46_全排列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_排列问题_46_全排列_解法2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_排列问题_47全排列II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_棋盘问题_51N皇后.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_深度搜索_332重新安排行程.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_组合问题_17电话号码的字母组合.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_组合问题_216组合总和III.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_组合问题_39组合总和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_组合问题_40组合总和II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Backtracking_组合问题_77组合.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeBacktracking/src/com/gerryZhao/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/META-INF/LeetCodeDP.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_1049最后一块石头的重量.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_416分割等和子集.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_509斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_62不同路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_63不同路径II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_70爬楼梯.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_746使用最小化费爬楼梯.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_96不同的二叉搜索树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_理论_01背包问题.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/out/production/LeetCodeDP/com/gerryZhao/DP_理论_01背包问题2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_1049最后一块石头的重量.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_416分割等和子集.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_509斐波那契数列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_62不同路径.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_63不同路径II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_70爬楼梯.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_746使用最小化费爬楼梯.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_96不同的二叉搜索树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_理论_01背包问题.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeDP/src/com/gerryZhao/DP_理论_01背包问题2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeTop100/out/production/LeetCodeTop100/com/gerryZhao/Top2$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeTop100/out/production/LeetCodeTop100/com/gerryZhao/Top2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeTop100/out/production/LeetCodeTop100/com/gerryZhao/Top3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeTop100/out/production/LeetCodeTop100/com/gerryZhao/Top5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeTop100/src/com/gerryZhao/Top2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeTop100/src/com/gerryZhao/Top3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCodeTop100/src/com/gerryZhao/Top5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/out/production/十大排序算法/META-INF/十大排序算法.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/out/production/十大排序算法/com/gerryZhao/Sort_1冒泡排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/out/production/十大排序算法/com/gerryZhao/Sort_1冒泡排序优化.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/out/production/十大排序算法/com/gerryZhao/Sort_2选择排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/out/production/十大排序算法/com/gerryZhao/Sort_2选择排序优化.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/out/production/十大排序算法/com/gerryZhao/Sort_3插入排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/out/production/十大排序算法/com/gerryZhao/Sort_4希尔排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/out/production/十大排序算法/com/gerryZhao/Sort_5快速排序.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/src/com/gerryZhao/Sort_1冒泡排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/src/com/gerryZhao/Sort_1冒泡排序优化.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/src/com/gerryZhao/Sort_2选择排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/src/com/gerryZhao/Sort_2选择排序优化.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/src/com/gerryZhao/Sort_3插入排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/src/com/gerryZhao/Sort_4希尔排序.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../十大排序算法/src/com/gerryZhao/Sort_5快速排序.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="25UY3cSJZ4fzcyTSfvwlrsWxzkK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.Main" />
+      <module name="LeetCode-Array" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ba2ee6-67b5-4937-bbaa-db2a2761e78d" name="Default Changelist" comment="" />
+      <created>1645582933485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645582933485</updated>
+      <workItem from="1645582936547" duration="5218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
