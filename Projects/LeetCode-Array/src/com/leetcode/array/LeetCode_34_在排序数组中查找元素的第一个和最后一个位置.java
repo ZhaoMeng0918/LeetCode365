@@ -33,7 +33,6 @@ public class LeetCode_34_在排序数组中查找元素的第一个和最后一�
     private int getLeftBorder(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
-        // 记录一下leftBorder没有被赋值的情况
         int leftBorder = -2;
         while (left <= right) {
             int middle = left + ((right - left) / 2);
