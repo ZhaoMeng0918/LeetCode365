@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08ba2ee6-67b5-4937-bbaa-db2a2761e78d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_26_删除排序数组中的重复项.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_27_移除元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_283_移动零.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_29_长度最小的子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_76_最小覆盖子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_844_比较含退格的字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_904_水果成篮.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_977_有序数组的平方.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_34_在排序数组中查找元素的第一个和最后一个位置.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_34_在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_0_总结.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_54_螺旋矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/array/LeetCode_59_螺旋矩阵II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Array/com/leetcode/array/LeetCode_904_水果成篮.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Array/com/leetcode/array/LeetCode_904_水果成篮.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +43,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode_904_水果成篮">
+  <component name="RunManager" selected="Application.LeetCode_59_螺旋矩阵II">
     <configuration name="LeetCode_27_移除元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.array.LeetCode_27_移除元素" />
+      <module name="LeetCode-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_59_螺旋矩阵II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.array.LeetCode_59_螺旋矩阵II" />
       <module name="LeetCode-Array" />
       <extension name="coverage">
         <pattern>
@@ -87,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_59_螺旋矩阵II" />
         <item itemvalue="Application.LeetCode_904_水果成篮" />
         <item itemvalue="Application.LeetCode_27_移除元素" />
       </list>
@@ -106,6 +115,7 @@
       <workItem from="1645604866022" duration="1254000" />
       <workItem from="1645672043842" duration="7686000" />
       <workItem from="1645751368502" duration="7591000" />
+      <workItem from="1645857245372" duration="1547000" />
     </task>
     <servers />
   </component>
