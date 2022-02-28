@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0673b47-d00d-408f-8081-e0fd0e972050" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_142_环形链表II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_203_移除链表元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_206_反转链表_难.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_707_设计链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/LeetCode_6008_统计包含给定前缀的字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/LeetCode_6009_使两字符串互为字母异位词的最少步骤数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/LeetCode_6010_完成旅途的最少时间.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/LeetCode_6011_完成比赛的最少时间.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_142_环形链表II.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_142_环形链表II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_203_移除链表元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_203_移除链表元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_206_反转链表_难.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_206_反转链表_难.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_707_设计链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_707_设计链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +103,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645929678320</updated>
-      <workItem from="1645929681001" duration="7522000" />
+      <workItem from="1645929681001" duration="7971000" />
+      <workItem from="1646011770061" duration="178000" />
     </task>
     <servers />
   </component>
@@ -119,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

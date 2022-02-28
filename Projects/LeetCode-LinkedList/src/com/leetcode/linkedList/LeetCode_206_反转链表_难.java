@@ -7,7 +7,7 @@ package com.leetcode.linkedList;
  * @Date 2022-02-26 15:04
  * @Version 1.0.0
  */
-public class LeetCode_206_反转链表 {
+public class LeetCode_206_反转链表_难 {
     class ListNode {
         int val;
         ListNode next;

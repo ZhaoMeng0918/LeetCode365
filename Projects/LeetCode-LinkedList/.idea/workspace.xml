@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c4ca9ed-9391-4c62-888a-e02776ec76da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_142_环形链表II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_203_移除链表元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_206_反转链表_难.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_707_设计链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="25dZaKBv1FdN1xzGtDwKQlBXFeu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.z">
+    <configuration name="LeetCode_24_两两交换链表中的节点_难" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.linkedList.LeetCode_24_两两交换链表中的节点_难" />
+      <module name="LeetCode-LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.linkedList.Main" />
+      <module name="LeetCode-LinkedList" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.linkedList.z" />
+      <module name="LeetCode-LinkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.LeetCode_24_两两交换链表中的节点_难" />
+      <item itemvalue="Application.z" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.z" />
+        <item itemvalue="Application.LeetCode_24_两两交换链表中的节点_难" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c4ca9ed-9391-4c62-888a-e02776ec76da" name="Default Changelist" comment="" />
+      <created>1645858985170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645858985170</updated>
+      <workItem from="1645858987994" duration="8215000" />
+      <workItem from="1645872657478" duration="1546000" />
+      <workItem from="1645925698748" duration="2827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
