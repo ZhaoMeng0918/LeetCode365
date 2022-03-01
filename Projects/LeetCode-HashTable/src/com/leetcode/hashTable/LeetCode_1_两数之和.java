@@ -1,9 +1,6 @@
 package com.leetcode.hashTable;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 /**
  * @ClassName LeetCode_1_两数之和

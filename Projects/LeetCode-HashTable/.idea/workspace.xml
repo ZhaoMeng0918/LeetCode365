@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3525170e-d34c-41b3-a4f8-7939264ee813" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_1_两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_202_快乐数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_242_有效的字母异位词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_349_两个数组的交集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_454_四数相加.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_142_环形链表II.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_142_环形链表II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_203_移除链表元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_203_移除链表元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_206_反转链表_难.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_206_反转链表_难.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_707_设计链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_707_设计链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_15_三数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_18_四数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_383_赎金信.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_1_两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_1_两数之和.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +63,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646011948860</updated>
-      <workItem from="1646011952403" duration="4880000" />
+      <workItem from="1646011952403" duration="10497000" />
+      <workItem from="1646054421542" duration="38000" />
+      <workItem from="1646100093149" duration="2903000" />
     </task>
     <servers />
   </component>
@@ -83,7 +77,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
