@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c4ca9ed-9391-4c62-888a-e02776ec76da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_142_环形链表II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_203_移除链表元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_206_反转链表_难.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_707_设计链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_1047_删除字符串中所有相邻重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_150_逆波兰表达式求值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_20_有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_225_用队列实现栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_232_用栈实现队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_239_滑动窗口最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_347_前K个高频元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-String/src/com/leetcode/string/LeetCode_151_翻转字符串里的单词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-String/src/com/leetcode/string/LeetCode_28_实现strStr函数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-String/src/com/leetcode/string/LeetCode_344_反转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-String/src/com/leetcode/string/LeetCode_541_反转字符串II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-String/src/com/leetcode/string/LeetCode_剑指Offer_05_替换空格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode-String/src/com/leetcode/string/LeetCode_剑指Offer_58II_左旋转字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/META-INF/LeetCode-LinkedList.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_142_环形链表II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_203_移除链表元素.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_206_反转链表_难$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_206_反转链表_难.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_707_设计链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/MyLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-LinkedList/com/leetcode/linkedList/z.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +52,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,6 +129,8 @@
       <workItem from="1645858987994" duration="8215000" />
       <workItem from="1645872657478" duration="1546000" />
       <workItem from="1645925698748" duration="2827000" />
+      <workItem from="1646277980174" duration="675000" />
+      <workItem from="1646445669344" duration="89000" />
     </task>
     <servers />
   </component>

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3525170e-d34c-41b3-a4f8-7939264ee813" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_15_三数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_18_四数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_383_赎金信.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_1_两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/hashTable/LeetCode_1_两数之和.java" afterDir="false" />
-    </list>
+    <list default="true" id="3525170e-d34c-41b3-a4f8-7939264ee813" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +61,8 @@
       <workItem from="1646011952403" duration="10497000" />
       <workItem from="1646054421542" duration="38000" />
       <workItem from="1646100093149" duration="2903000" />
+      <workItem from="1646185389498" duration="24000" />
+      <workItem from="1646185547780" duration="33000" />
     </task>
     <servers />
   </component>
