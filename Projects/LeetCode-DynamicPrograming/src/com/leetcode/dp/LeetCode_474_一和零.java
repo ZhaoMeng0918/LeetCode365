@@ -19,7 +19,7 @@ public class LeetCode_474_一和零 {
                     dp[i][j] = Math.max(dp[i][j], dp[i - zeroNum][j - oneNum] + 1);
                 }
             }
-            return dp[m][n];
         }
+        return dp[m][n];
     }
 }
