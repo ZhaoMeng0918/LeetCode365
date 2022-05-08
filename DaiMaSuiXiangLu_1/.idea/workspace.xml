@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3d6f97f-1d3b-42a0-9868-b458024aa508" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_0_总结.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_26_删除排序数组中的重复项.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_27_移除元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_283_移动零.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_29_长度最小的子数组.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_34_在排序数组中查找元素的第一个和最后一个位置.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_35_搜索插入位置.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_367_有效的完全平方数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_54_螺旋矩阵.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_59_螺旋矩阵II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_69_x的平方根.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_704_二分查找.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_76_最小覆盖子串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_844_比较含退格的字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_904_水果成篮.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Array/src/com/leetcode/array/LeetCode_977_有序数组的平方.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-BinaryTree/src/com/leetcode/binaryTree/LeetCode_102_二叉树的层序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-BinaryTree/src/com/leetcode/binaryTree/LeetCode_144_二叉树的前序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-BinaryTree/src/com/leetcode/binaryTree/LeetCode_145_二叉树的后序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-BinaryTree/src/com/leetcode/binaryTree/LeetCode_94_二叉树的中序遍历.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-BinaryTree/src/com/leetcode/binaryTree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-DynamicPrograming/src/com/leetcode/dp/LeetCode_343_整数拆分.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-DynamicPrograming/src/com/leetcode/dp/LeetCode_509_斐波那契数列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-DynamicPrograming/src/com/leetcode/dp/LeetCode_62_不同路径.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-DynamicPrograming/src/com/leetcode/dp/LeetCode_63_不同路径II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-DynamicPrograming/src/com/leetcode/dp/LeetCode_70_爬楼梯.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-DynamicPrograming/src/com/leetcode/dp/LeetCode_746_使用最小花费爬楼梯.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-DynamicPrograming/src/com/leetcode/dp/LeetCode_96_不同的二叉搜索树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-HashTable/src/com/leetcode/hashTable/LeetCode_15_三数之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-HashTable/src/com/leetcode/hashTable/LeetCode_18_四数之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-HashTable/src/com/leetcode/hashTable/LeetCode_1_两数之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-HashTable/src/com/leetcode/hashTable/LeetCode_202_快乐数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-HashTable/src/com/leetcode/hashTable/LeetCode_242_有效的字母异位词.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-HashTable/src/com/leetcode/hashTable/LeetCode_349_两个数组的交集.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-HashTable/src/com/leetcode/hashTable/LeetCode_383_赎金信.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-HashTable/src/com/leetcode/hashTable/LeetCode_454_四数相加.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_142_环形链表II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_19_删除链表的倒数第N个节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_203_移除链表元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_206_反转链表_难.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_24_两两交换链表中的节点_难.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_707_设计链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-LinkedList/src/com/leetcode/linkedList/LeetCode_面试题0207_链表相交.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_1047_删除字符串中所有相邻重复项.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_150_逆波兰表达式求值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_20_有效的括号.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_225_用队列实现栈.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_232_用栈实现队列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_239_滑动窗口最大值.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-Stack&amp;Queue/src/com/leetcode/stack_queue/LeetCode_347_前K个高频元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-String/src/com/leetcode/string/LeetCode_151_翻转字符串里的单词.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-String/src/com/leetcode/string/LeetCode_28_实现strStr函数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-String/src/com/leetcode/string/LeetCode_344_反转字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-String/src/com/leetcode/string/LeetCode_541_反转字符串II.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-String/src/com/leetcode/string/LeetCode_剑指Offer_05_替换空格.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-String/src/com/leetcode/string/LeetCode_剑指Offer_58II_左旋转字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-281/src/com/leetcode/LeetCode_2180_统计各位数字之和为偶数的整数个数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-281/src/com/leetcode/LeetCode_2181_合并零之间的节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-281/src/com/leetcode/LeetCode_2182_构造限制重复的字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-281/src/com/leetcode/LeetCode_2183_统计可以被K整除的下标对数目.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-282/src/com/leetcode/LeetCode_6008_统计包含给定前缀的字符串.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-282/src/com/leetcode/LeetCode_6009_使两字符串互为字母异位词的最少步骤数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-282/src/com/leetcode/LeetCode_6010_完成旅途的最少时间.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-282/src/com/leetcode/LeetCode_6011_完成比赛的最少时间.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-283/src/com/leetcode/LeetCode_6016_Excel表中某个范围内的单元格.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-283/src/com/leetcode/LeetCode_6017_向数组中追加K个整数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-283/src/com/leetcode/LeetCode_6018_根据描述创建二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projects/LeetCode-周赛/LeetCode-周赛-283/src/com/leetcode/LeetCode_6019_替换数组中的非互质数.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="28rg1zi6KO9vk2Wd1YSwJ95Db5d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LeetCode_数组_844_比较含退格的字符串">
+    <configuration name="LeetCode_数组_69_x的平方根" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.LeetCode_数组_69_x的平方根" />
+      <module name="DaiMaSuiXiangLu_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_数组_844_比较含退格的字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.LeetCode_数组_844_比较含退格的字符串" />
+      <module name="DaiMaSuiXiangLu_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.Main" />
+      <module name="DaiMaSuiXiangLu_1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.LeetCode_数组_69_x的平方根" />
+      <item itemvalue="Application.LeetCode_数组_844_比较含退格的字符串" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode_数组_844_比较含退格的字符串" />
+        <item itemvalue="Application.LeetCode_数组_69_x的平方根" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3d6f97f-1d3b-42a0-9868-b458024aa508" name="Default Changelist" comment="" />
+      <created>1651979907856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651979907856</updated>
+      <workItem from="1651979914417" duration="8260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
